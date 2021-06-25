@@ -11,8 +11,11 @@ Data analysis <br />
 1. &nbsp; Most popular apps by genre on App store  <br />
 2. &nbsp; Most popular apps by genre on Google play store  <br />
 
+Libraries used : csv, reader
 
 ### 2. <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Guided%20Project_%20Exploring%20Hacker%20News%20Posts.ipynb">Guided Project:Exploring Hacker News Posts.</a>
 
 &nbsp; Objective is to compare between Ask HN and Show HN posts based on the frequency during different hours.
+
+Libraries used : csv , datetime
 
