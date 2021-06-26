@@ -30,4 +30,10 @@ Data analysis <br />
 
   &nbsp; &nbsp; <b><i>Libraries used : pandas, matplotlib, datetime</i></b>
 
+### 4. <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Guided%20Project_%20Finding%20Heavy%20Traffic%20Indicators%20on%20I-94.ipynb">Guided Project_ Finding Heavy Traffic Indicators on I-94</a>
 
+Aim : Using the dataset of I-94 Interstate highway we are going to look at the factors that causes slowness in traffic in this notebook
+
+1. &nbsp; Split the traffic to day and night data to analyse futher on the influence for traffic 
+2. &nbsp; Split the data to different months and analyse if the traffic slowness is different for each month
+3. &nbsp; Analyse traffic slowness for different weather conditions
