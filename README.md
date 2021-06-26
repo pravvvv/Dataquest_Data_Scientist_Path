@@ -37,3 +37,5 @@ Aim : Using the dataset of I-94 Interstate highway we are going to look at the f
 1. &nbsp; Split the traffic to day and night data to analyse futher on the influence for traffic 
 2. &nbsp; Split the data to different months and analyse if the traffic slowness is different for each month
 3. &nbsp; Analyse traffic slowness for different weather conditions
+ 
+  &nbsp; &nbsp; <b><i>Libraries used : pandas, matplotlib, datetime</i></b>
