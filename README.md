@@ -39,3 +39,14 @@ Aim : Using the dataset of I-94 Interstate highway we are going to look at the f
 3. &nbsp; Analyse traffic slowness for different weather conditions
  
   &nbsp; &nbsp; <b><i>Libraries used : pandas, matplotlib, datetime</i></b>
+  
+### 5. <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Guided%20Project_%20Storytelling%20Data%20Visualization%20on%20Exchange%20Rates.ipynb>Guided Project_ Storytelling Data Visualization on Exchange Rates</a>
+  
+Aim : The dataset we'll use describes Euro daily exchange rates between 1999 and 2021. Look at the impact of black swan events .
+  
+1. &nbsp; Mark vertical lines for the event days
+2. &nbsp; Data story visualization based on the price movements
+  
+  &nbsp; &nbsp; <b><i>Libraries used : pandas, matplotlib, datetime, numpy</i></b>
+
+
