@@ -13,13 +13,13 @@ Data analysis <br />
 
 &nbsp; &nbsp; <b><i>Libraries used : csv, reader</i></b>
 
-### 2. <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Guided%20Project_%20Exploring%20Hacker%20News%20Posts.ipynb">Exploring Hacker News Posts.</a>
+### 2. <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Exploring%20Hacker%20News%20Posts.ipynb">Exploring Hacker News Posts.</a>
 
 &nbsp; Objective is to compare between Ask HN and Show HN posts based on the frequency during different hours.
 
   &nbsp; &nbsp; <b><i>Libraries used : csv, datetime</i></b>
 
-### 3. <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Guided%20Project%20Exploring%20eBay%20Car%20Sales%20Data.ipynb">Exploring eBay Car Sales Data</a>
+### 3. <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Exploring%20eBay%20Car%20Sales%20Data.ipynb">Exploring eBay Car Sales Data</a>
 
 &nbsp; The aim of this project is to clean the data and analyze the included used car listings
 
@@ -30,7 +30,7 @@ Data analysis <br />
 
   &nbsp; &nbsp; <b><i>Libraries used : pandas, matplotlib, datetime</i></b>
 
-### 4. <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Guided%20Project_%20Finding%20Heavy%20Traffic%20Indicators%20on%20I-94.ipynb">Finding Heavy Traffic Indicators on I-94</a>
+### 4. <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Finding%20Heavy%20Traffic%20Indicators%20on%20I-94.ipynb">Finding Heavy Traffic Indicators on I-94</a>
 
 Aim : Using the dataset of I-94 Interstate highway we are going to look at the factors that causes slowness in traffic in this notebook
 
@@ -40,7 +40,7 @@ Aim : Using the dataset of I-94 Interstate highway we are going to look at the f
  
   &nbsp; &nbsp; <b><i>Libraries used : pandas, matplotlib, datetime</i></b>
   
-### 5. <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Guided%20Project_%20Storytelling%20Data%20Visualization%20on%20Exchange%20Rates.ipynb">Storytelling Data Visualization on Exchange Rates</a>
+### 5. <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Storytelling%20Data%20Visualization%20on%20Exchange%20Rates.ipynb">Storytelling Data Visualization on Exchange Rates</a>
   
 Aim : The dataset we'll use describes Euro daily exchange rates between 1999 and 2021. Look at the impact of black swan events .
   
