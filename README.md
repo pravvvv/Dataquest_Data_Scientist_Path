@@ -1,5 +1,5 @@
 # Dataquest Projects
-### 1. <a href="https://github.com/pravvvv/Dataquest_notes/blob/main/Guided%20Project_%20Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb">Guided Project:Profitable App Profiles for the App Store and Google Play Markets</a>
+### 1. <a href="https://github.com/pravvvv/Dataquest_notes/blob/main/Guided%20Project_%20Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb">Profitable App Profiles for the App Store and Google Play Markets</a>
 
 Data Cleaning <br />
 1. &nbsp; Remove innacurate data <br />
@@ -13,13 +13,13 @@ Data analysis <br />
 
 &nbsp; &nbsp; <b><i>Libraries used : csv, reader</i></b>
 
-### 2. <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Guided%20Project_%20Exploring%20Hacker%20News%20Posts.ipynb">Guided Project:Exploring Hacker News Posts.</a>
+### 2. <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Guided%20Project_%20Exploring%20Hacker%20News%20Posts.ipynb">Exploring Hacker News Posts.</a>
 
 &nbsp; Objective is to compare between Ask HN and Show HN posts based on the frequency during different hours.
 
   &nbsp; &nbsp; <b><i>Libraries used : csv, datetime</i></b>
 
-### 3. <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Guided%20Project%20Exploring%20eBay%20Car%20Sales%20Data.ipynb">Guided Project Exploring eBay Car Sales Data</a>
+### 3. <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Guided%20Project%20Exploring%20eBay%20Car%20Sales%20Data.ipynb">Exploring eBay Car Sales Data</a>
 
 &nbsp; The aim of this project is to clean the data and analyze the included used car listings
 
@@ -30,7 +30,7 @@ Data analysis <br />
 
   &nbsp; &nbsp; <b><i>Libraries used : pandas, matplotlib, datetime</i></b>
 
-### 4. <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Guided%20Project_%20Finding%20Heavy%20Traffic%20Indicators%20on%20I-94.ipynb">Guided Project_ Finding Heavy Traffic Indicators on I-94</a>
+### 4. <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Guided%20Project_%20Finding%20Heavy%20Traffic%20Indicators%20on%20I-94.ipynb">Finding Heavy Traffic Indicators on I-94</a>
 
 Aim : Using the dataset of I-94 Interstate highway we are going to look at the factors that causes slowness in traffic in this notebook
 
@@ -39,3 +39,14 @@ Aim : Using the dataset of I-94 Interstate highway we are going to look at the f
 3. &nbsp; Analyse traffic slowness for different weather conditions
  
   &nbsp; &nbsp; <b><i>Libraries used : pandas, matplotlib, datetime</i></b>
+  
+### 5. <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Guided%20Project_%20Storytelling%20Data%20Visualization%20on%20Exchange%20Rates.ipynb">Storytelling Data Visualization on Exchange Rates</a>
+  
+Aim : The dataset we'll use describes Euro daily exchange rates between 1999 and 2021. Look at the impact of black swan events .
+  
+1. &nbsp; Mark vertical lines for the event days
+2. &nbsp; Data story visualization based on the price movements
+  
+  &nbsp; &nbsp; <b><i>Libraries used : pandas, matplotlib, datetime, numpy</i></b>
+
+
