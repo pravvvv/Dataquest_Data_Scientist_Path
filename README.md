@@ -49,4 +49,10 @@ Aim : The dataset we'll use describes Euro daily exchange rates between 1999 and
   
   &nbsp; &nbsp; <b><i>Libraries used : pandas, matplotlib, datetime, numpy</i></b>
 
+### 6. <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL.ipynb">Analyzing CIA Factbook Data Using SQL</a>
+
+1. &nbsp; Query the database for insights
+
+
+  &nbsp; &nbsp; <b><i>Libraries used : sqlite
 
