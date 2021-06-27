@@ -1,5 +1,5 @@
 # Dataquest Projects
-### 1. <a href="https://github.com/pravvvv/Dataquest_notes/blob/main/Guided%20Project_%20Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb">Profitable App Profiles for the App Store and Google Play Markets</a>
+### 1. <a href="https://github.com/pravvvv/Dataquest_notes/blob/main/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb">Profitable App Profiles for the App Store and Google Play Markets</a>
 
 Data Cleaning <br />
 1. &nbsp; Remove innacurate data <br />
