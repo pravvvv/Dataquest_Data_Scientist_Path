@@ -65,3 +65,17 @@ Aim : The dataset we'll use describes Euro daily exchange rates between 1999 and
 
   &nbsp; &nbsp; <b><i>Libraries used : sqlite</i></b>
 
+### 7. <a>Clean and Analyze Employee Exit Surveys</a>
+
+Aim : Understand why employees are resigning .Is there some kind of a dissatisfaction and is the trend common between experienced and new employees?
+
+1. Collect and clean the data from TAFE and DETE dataset
+2. Drop the columns which doesnt help our analysis
+3. Clean the datasets to learn the type of seperation
+4. Calculate the service period in the institute
+5. Club different dissatisfaction columns into one from TAFE dataset
+6. Classify employees based on experience to Veteran,Established,Experienced and New
+7. Plot each employee type with the dissatisfaction count
+
+  &nbsp; &nbsp; <b><i>Libraries used : pandas,matplotlib,numpy</i></b>
+
