@@ -1,3 +1,7 @@
+Project | Libraries
+-- | --
+<a href="https://github.com/pravvvv/Dataquest_notes/blob/main/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb">Profitable App Profiles for the App Store and Google Play Markets</a>|csv, reader
+
 # Dataquest Projects
 ### 1. <a href="https://github.com/pravvvv/Dataquest_notes/blob/main/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb">Profitable App Profiles for the App Store and Google Play Markets</a>
 
@@ -11,7 +15,7 @@ Data analysis <br />
 1. &nbsp; Most popular apps by genre on App store  <br />
 2. &nbsp; Most popular apps by genre on Google play store  <br />
 
-&nbsp; &nbsp; <b><i>Libraries used : csv, reader</i></b>
+&nbsp; &nbsp; <b><i>Libraries used :| csv, reader</i></b>
 
 ### 2. <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Exploring%20Hacker%20News%20Posts.ipynb">Exploring Hacker News Posts.</a>
 
