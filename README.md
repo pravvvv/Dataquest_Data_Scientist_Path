@@ -1,3 +1,12 @@
+Project | Libraries
+-- | --
+<a href="https://github.com/pravvvv/Dataquest_notes/blob/main/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb">Profitable App Profiles for the App Store and Google Play Markets</a>|csv, reader
+<a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Exploring%20Hacker%20News%20Posts.ipynb">Exploring Hacker News Posts.</a>|csv, datetime
+<a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Exploring%20eBay%20Car%20Sales%20Data.ipynb">Exploring eBay Car Sales Data</a>|pandas, matplotlib, datetime
+<a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Finding%20Heavy%20Traffic%20Indicators%20on%20I-94.ipynb">Finding Heavy Traffic Indicators on I-94</a>|pandas, matplotlib, datetime
+<a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Storytelling%20Data%20Visualization%20on%20Exchange%20Rates.ipynb">Storytelling Data Visualization on Exchange Rates</a>| pandas, matplotlib, datetime, numpy
+<a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL.ipynb">Analyzing CIA Factbook Data Using SQL</a>|sqlite
+
 # Dataquest Projects
 ### 1. <a href="https://github.com/pravvvv/Dataquest_notes/blob/main/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb">Profitable App Profiles for the App Store and Google Play Markets</a>
 
@@ -11,7 +20,7 @@ Data analysis <br />
 1. &nbsp; Most popular apps by genre on App store  <br />
 2. &nbsp; Most popular apps by genre on Google play store  <br />
 
-&nbsp; &nbsp; <b><i>Libraries used : csv, reader</i></b>
+&nbsp; &nbsp; <b><i>Libraries used :| csv, reader</i></b>
 
 ### 2. <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Exploring%20Hacker%20News%20Posts.ipynb">Exploring Hacker News Posts.</a>
 
@@ -54,5 +63,5 @@ Aim : The dataset we'll use describes Euro daily exchange rates between 1999 and
 1. &nbsp; Query the database for insights
 
 
-  &nbsp; &nbsp; <b><i>Libraries used : sqlite
+  &nbsp; &nbsp; <b><i>Libraries used : sqlite</i></b>
 
