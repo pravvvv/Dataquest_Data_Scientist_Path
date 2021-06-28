@@ -66,7 +66,7 @@ Aim : The dataset we'll use describes Euro daily exchange rates between 1999 and
 
   &nbsp; &nbsp; <b><i>Libraries used : sqlite</i></b>
 
-### 7. <a>Clean and Analyze Employee Exit Surveys</a>
+### 7. <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Clean%20and%20Analyze%20Employee%20Exit%20Surveys.ipynb">Clean and Analyze Employee Exit Surveys</a>
 
 Aim : Understand why employees are resigning .Is there some kind of a dissatisfaction and is the trend common between experienced and new employees?
 
