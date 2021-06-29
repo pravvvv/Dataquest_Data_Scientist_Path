@@ -70,13 +70,30 @@ Aim : The dataset we'll use describes Euro daily exchange rates between 1999 and
 
 Aim : Understand why employees are resigning .Is there some kind of a dissatisfaction and is the trend common between experienced and new employees?
 
-1. Collect and clean the data from TAFE and DETE dataset
-2. Drop the columns which doesnt help our analysis
-3. Clean the datasets to learn the type of seperation
-4. Calculate the service period in the institute
-5. Club different dissatisfaction columns into one from TAFE dataset
-6. Classify employees based on experience to Veteran,Established,Experienced and New
-7. Plot each employee type with the dissatisfaction count
+* Explored the data and figured out how to prepare it for analysis
+* Corrected some of the missing values
+* Dropped any data not needed for our analysis
+* Renamed our columns
+* Verified the quality of our data
+* Created a new institute_service column
+* Cleaned the Contributing Factors columns
+* Created a new column indicating if an employee resigned because they were dissatisfied in some way
+* Combined the data
+* Cleaned the institute_service column
+* Handled the missing values in the dissatisfied column
+* Aggregated the data
 
   &nbsp; &nbsp; <b><i>Libraries used : pandas,matplotlib,numpy</i></b>
 
+### 8. <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Clean%20and%20Analyze%20Employee%20Exit%20Surveys.ipynb">Investigating Fandango Movie Ratings</a>
+
+In October 2015, a data journalist named Walt Hickey analyzed movie ratings data and found strong evidence to suggest that Fandango's rating system was biased and dishonest (Fandango is an online movie ratings aggregator). He published his analysis in this article — a great piece of data journalism that's totally worth reading.
+
+Aim : We are analysing the recent movie ratings data to determine if Fadango's rating system has had any change unlike from 2015. 
+
+* Collected the datasets 
+* Classify the datasets based on the year
+* Plot the distribution for year 2015 and 2016
+* Calculate the summary metrics and plot the same for the years 2015 and 2016
+
+  &nbsp; &nbsp; <b><i>Libraries used : pandas,matplotlib,numpy</i></b>
