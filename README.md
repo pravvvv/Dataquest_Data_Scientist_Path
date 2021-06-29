@@ -85,7 +85,7 @@ Aim : Understand why employees are resigning .Is there some kind of a dissatisfa
 
   &nbsp; &nbsp; <b><i>Libraries used : pandas,matplotlib,numpy</i></b>
 
-### 8. <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Clean%20and%20Analyze%20Employee%20Exit%20Surveys.ipynb">Investigating Fandango Movie Ratings</a>
+### 8. <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Investigating%20Fandango%20Movie%20Ratings.ipynb">Investigating Fandango Movie Ratings</a>
 
 In October 2015, a data journalist named Walt Hickey analyzed movie ratings data and found strong evidence to suggest that Fandango's rating system was biased and dishonest (Fandango is an online movie ratings aggregator). He published his analysis in this article — a great piece of data journalism that's totally worth reading.
 
