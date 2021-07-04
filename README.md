@@ -8,7 +8,8 @@ Project | Libraries | Module
 <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL.ipynb">Analyzing CIA Factbook Data Using SQL</a>|sqlite|SQL Fundamentals
 <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Clean%20and%20Analyze%20Employee%20Exit%20Surveys.ipynb">Clean and Analyze Employee Exit Surveys</a>|pandas<br />  matplotlib<br />  numpy|Data Cleaning and Analysis
 <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Investigating%20Fandango%20Movie%20Ratings.ipynb">Investigating Fandango Movie Ratings</a>|pandas, matplotlib, numpy |Statistics Fundamentals
-<a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Predicting%20Car%20Prices.ipynb">Predicting car prices using attributes using machine learning</a>|pandas<br /> matplotlib<br /> numpy<br /> KNeighborsRegressor<br /> mean_squared_error
+<a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Predicting%20Car%20Prices.ipynb">Predicting car prices using attributes using machine learning</a>|pandas<br /> matplotlib<br /> numpy<br /> KNeighborsRegressor<br /> mean_squared_error|Machine Learning Fundamentals
+
 
 
 
