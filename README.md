@@ -8,6 +8,8 @@ Project | Libraries | Module
 <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL.ipynb">Analyzing CIA Factbook Data Using SQL</a>|sqlite
 <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Clean%20and%20Analyze%20Employee%20Exit%20Surveys.ipynb">Clean and Analyze Employee Exit Surveys</a>|pandas, matplotlib, numpy
 <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Investigating%20Fandango%20Movie%20Ratings.ipynb">Investigating Fandango Movie Ratings</a>|pandas, matplotlib, numpy
+<a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Predicting%20Car%20Prices.ipynb">Predicting car prices using attributes using machine learning</a>|pandas,matplotlib,numpy,KNeighborsRegressor,mean_squared_error
+
 
 
 # Dataquest Projects
@@ -99,3 +101,12 @@ Aim : We are analysing the recent movie ratings data to determine if Fadango's r
 * Calculate the summary metrics and plot the same for the years 2015 and 2016
 
   &nbsp; &nbsp; <b><i>Libraries used : pandas,matplotlib,numpy</i></b>
+  
+### 9. <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Predicting%20Car%20Prices.ipynb">Predicting Car Prices using machine learning (KNN)</a>
+
+Using the attributes available from the dataset (UCI machine learning repository) we try to predict car prices. 
+In this project I create a model using KNN algorithm .
+
+* Univariate model  
+* Multivariate model
+* Hyperparameter tuning
