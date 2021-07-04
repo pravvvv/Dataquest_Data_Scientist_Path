@@ -6,9 +6,9 @@ Project | Libraries | Module
 <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Finding%20Heavy%20Traffic%20Indicators%20on%20I-94.ipynb">Finding Heavy Traffic Indicators on I-94</a>|pandas<br />  matplotlib<br />  datetime
 <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Storytelling%20Data%20Visualization%20on%20Exchange%20Rates.ipynb">Storytelling Data Visualization on Exchange Rates</a>| pandas<br />  matplotlib<br />  datetime<br />  numpy
 <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL.ipynb">Analyzing CIA Factbook Data Using SQL</a>|sqlite
-<a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Clean%20and%20Analyze%20Employee%20Exit%20Surveys.ipynb">Clean and Analyze Employee Exit Surveys</a>|pandas, matplotlib, numpy
+<a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Clean%20and%20Analyze%20Employee%20Exit%20Surveys.ipynb">Clean and Analyze Employee Exit Surveys</a>|pandas<br />  matplotlib<br />  numpy
 <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Investigating%20Fandango%20Movie%20Ratings.ipynb">Investigating Fandango Movie Ratings</a>|pandas, matplotlib, numpy
-<a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Predicting%20Car%20Prices.ipynb">Predicting car prices using attributes using machine learning</a>|pandas,matplotlib,numpy,KNeighborsRegressor,mean_squared_error
+<a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Predicting%20Car%20Prices.ipynb">Predicting car prices using attributes using machine learning</a>|pandas<br /> matplotlib<br /> numpy<br /> KNeighborsRegressor<br /> mean_squared_error
 
 
 
