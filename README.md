@@ -1,6 +1,6 @@
 Project | Libraries | Module
 -- | -- | --
-<a href="https://github.com/pravvvv/Dataquest_notes/blob/main/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb">Profitable App Profiles for the App Store and Google Play Markets</a>|csv <br /> reader
+<a href="https://github.com/pravvvv/Dataquest_notes/blob/main/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb">Profitable App Profiles for the App Store and Google Play Markets</a>|csv <br /> reader | Python for Data Science: Fundamentals
 <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Exploring%20Hacker%20News%20Posts.ipynb">Exploring Hacker News Posts.</a>|csv<br />  datetime
 <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Exploring%20eBay%20Car%20Sales%20Data.ipynb">Exploring eBay Car Sales Data</a>|pandas  matplotlib, datetime
 <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Finding%20Heavy%20Traffic%20Indicators%20on%20I-94.ipynb">Finding Heavy Traffic Indicators on I-94</a>|pandas<br />  matplotlib<br />  datetime
