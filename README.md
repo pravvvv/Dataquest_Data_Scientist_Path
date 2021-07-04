@@ -1,10 +1,10 @@
 Project | Libraries | Module
 -- | -- | --
-<a href="https://github.com/pravvvv/Dataquest_notes/blob/main/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb">Profitable App Profiles for the App Store and Google Play Markets</a>|csv, reader
-<a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Exploring%20Hacker%20News%20Posts.ipynb">Exploring Hacker News Posts.</a>|csv, datetime
+<a href="https://github.com/pravvvv/Dataquest_notes/blob/main/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb">Profitable App Profiles for the App Store and Google Play Markets</a>|csv <br /> reader
+<a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Exploring%20Hacker%20News%20Posts.ipynb">Exploring Hacker News Posts.</a>|csv<br />  datetime
 <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Exploring%20eBay%20Car%20Sales%20Data.ipynb">Exploring eBay Car Sales Data</a>|pandas  matplotlib, datetime
-<a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Finding%20Heavy%20Traffic%20Indicators%20on%20I-94.ipynb">Finding Heavy Traffic Indicators on I-94</a>|pandas, matplotlib, datetime
-<a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Storytelling%20Data%20Visualization%20on%20Exchange%20Rates.ipynb">Storytelling Data Visualization on Exchange Rates</a>| pandas, matplotlib, datetime, numpy
+<a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Finding%20Heavy%20Traffic%20Indicators%20on%20I-94.ipynb">Finding Heavy Traffic Indicators on I-94</a>|pandas<br />  matplotlib<br />  datetime
+<a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Storytelling%20Data%20Visualization%20on%20Exchange%20Rates.ipynb">Storytelling Data Visualization on Exchange Rates</a>| pandas<br />  matplotlib<br />  datetime<br />  numpy
 <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL.ipynb">Analyzing CIA Factbook Data Using SQL</a>|sqlite
 <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Clean%20and%20Analyze%20Employee%20Exit%20Surveys.ipynb">Clean and Analyze Employee Exit Surveys</a>|pandas, matplotlib, numpy
 <a href="https://github.com/pravvvv/Dataquest_Data_Scientist_Path/blob/main/Investigating%20Fandango%20Movie%20Ratings.ipynb">Investigating Fandango Movie Ratings</a>|pandas, matplotlib, numpy
